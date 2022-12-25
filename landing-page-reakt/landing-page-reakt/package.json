@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-iframe": "^1.8.5",
+    "react-owl-carousel": "^2.3.3"
+  }
+}
